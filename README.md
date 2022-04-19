@@ -1,6 +1,6 @@
 Scott Lyman
 
-I am currently a Full Stack Dev student at Boise CodeWorks, building my skills and knowledge in HTML5, CSS3, and Javascript ES6 utilizing varying frameworks.  I have built experience in NodeJS, Vue, Auth0 and MongoDB.
+I am currently a Full Stack Dev student at Boise CodeWorks, building my skills and knowledge in HTML5, CSS3, and Javascript ES6 utilizing varying frameworks.  I have built experience in NodeJS, Vue, Auth0 and MongoDB as well as C# with MySQL database.
 
 Contact Me: s.t.lyman84@gmail.com
 
